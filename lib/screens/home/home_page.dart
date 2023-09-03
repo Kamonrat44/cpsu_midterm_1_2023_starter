@@ -224,7 +224,7 @@ class _HomePageState extends State<HomePage> {
                 borderRadius: BorderRadius.circular(30),
               ),
               side: BorderSide(color: Colors.black),
-              backgroundColor: Colors.green,
+              backgroundColor: Colors.lightGreen,
             ),
             child: Padding(
               padding:
